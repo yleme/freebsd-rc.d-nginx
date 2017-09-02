@@ -6,5 +6,5 @@ Give it executable permission
 Add nginx_enable="YES" into /etc/rc.conf
 
 
-# /etc/rc.d/nginx configtest
-# /etc/rc.d/nginx start 
+* /etc/rc.d/nginx configtest
+* /etc/rc.d/nginx start 
